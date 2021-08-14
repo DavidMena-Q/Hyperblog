@@ -1,4 +1,4 @@
-# Hyperblog :tw-270c:
+# Hyperblog :electric_plug:
 Este es un proyecto para aprender a usar git hub y empezar a desarrollar profesionalmente. 
 >  Este blog es un proyecto de parendizaje para utilizar git and git hub como todo un experto de la programación y poder colaborar con otros desarrolladores y enfocarme en mis proyectos de manera mas sencilla.
 >- Y este es el inicio.
