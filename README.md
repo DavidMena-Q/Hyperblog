@@ -8,3 +8,4 @@ Este es un proyecto para aprender a usar git hub y empezar a desarrollar profesi
 * He aprendido a agregar repositorios.
 * También a subirlos a repositorios remotos.
 * Y colaborar en equipo en git hub
+* Nuncapares de aprender
