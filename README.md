@@ -9,9 +9,4 @@ Este es un proyecto para aprender a usar git hub y empezar a desarrollar profesi
 * También a subirlos a repositorios remotos.
 * Y colaborar en equipo en git hub
 * Nuncapares de aprender
-<<<<<<< HEAD
-* Cumple tus sueños
-* Experimento 2
-=======
-* main 1
->>>>>>> 72df9a5 (Main 1)
+
